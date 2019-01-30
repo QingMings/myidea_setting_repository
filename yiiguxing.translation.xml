@@ -1,13 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TextField supports the notion of showing" />
+      <item value="if you want * a form of rich-text editing, there is also the" />
+      <item value="Additionally" />
+      <item value="however this is * the sole-purpose of the {@link TextArea} control" />
+      <item value="support for multi-line * input is not available as part of the TextField control" />
+      <item value="Text input component that allows a user to enter a single line of * unformatted text. Unlike in previous releases of JavaFX" />
       <item value="Accessibility" />
       <item value="Text field that masks entered characters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
