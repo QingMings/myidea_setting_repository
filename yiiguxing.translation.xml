@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="タスクバーのアイコンバッジへの数値登録はサポートされていません" />
+      <item value="設定メニューはサポートされていません." />
+      <item value="Aboutメニューはサポートされていません." />
+      <item value="Screen Sleep Eventはサポートされていません." />
+      <item value="App Hidden Eventはサポートされていません." />
+      <item value="App Foreground Eventはサポートされていません." />
       <item value="TextField supports the notion of showing" />
       <item value="if you want * a form of rich-text editing, there is also the" />
       <item value="Additionally" />
@@ -14,6 +20,7 @@
       <map>
         <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="8" />
+        <entry key="JAPANESE" value="7" />
       </map>
     </option>
   </component>
