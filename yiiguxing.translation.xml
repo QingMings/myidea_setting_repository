@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A visual rendering * of a JavaFX Stage on Mac OSX" />
       <item value="タスクバーのプログレス表示はサポートされていません" />
       <item value="タスクバーのアイコンバッジへの数値登録はサポートされていません" />
       <item value="設定メニューはサポートされていません." />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="JAPANESE" value="8" />
       </map>
     </option>
