@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Merge Project" />
+      <item value="テンプレートを選択" />
+      <item value="プロジェクトの新規作成" />
+      <item value="ファイル" />
+      <item value="\u 30 d 5\u 30 a 1\u 30 a 4\u 30 eb" />
       <item value="A visual rendering * of a JavaFX Stage on Mac OSX" />
       <item value="タスクバーのプログレス表示はサポートされていません" />
       <item value="タスクバーのアイコンバッジへの数値登録はサポートされていません" />
@@ -25,5 +30,13 @@
         <entry key="JAPANESE" value="8" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
