@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class provides thread-local variables. These variables differ from * their normal counterparts in that each thread that accesses one (via its * {@code get} or {@code set} method) has its own, independently initialized * copy of the variable. {@code ThreadLocal} instances are typically private * static fields in classes that wish to associate state with a thread (e.g., * a user ID or Transaction ID)." />
+      <item value="associate" />
+      <item value="typically" />
+      <item value="independently" />
+      <item value="independently initialized * copy of the variable." />
+      <item value="This class provides thread-local variables. These variables differ from * their normal counterparts in that each thread that accesses one (via its * {@code get} or {@code set} method) has its own," />
+      <item value="An extension of ThreadLocal that obtains its initial value from * the specified {@code Supplier}." />
+      <item value="Method childValue is visibly defined in subclass * InheritableThreadLocal, but is internally defined here for the * sake of providing createInheritedMap factory method without * needing to subclass the map class in InheritableThreadLocal. * This technique is preferable to the alternative of embedding * instanceof tests in methods." />
+      <item value="We don't use a fast path as with get() because it is at // least as common to use set() to create new entries as // it is to replace existing ones, in which case, a fast // path would fail more often than not." />
+      <item value="associated" />
       <item value="The difference between successively generated hash codes - turns * implicit sequential thread-local IDs into near-optimally spread * multiplicative hash values for power-of-two-sized tables." />
       <item value="InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
       <item value="however, the child's value can be made an * arbitrary function of the parent's by overriding the &lt;tt&gt;childValue&lt;/tt&gt; * method in this class." />
@@ -44,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="27" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="39" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
