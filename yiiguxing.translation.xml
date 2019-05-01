@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The difference between successively generated hash codes - turns * implicit sequential thread-local IDs into near-optimally spread * multiplicative hash values for power-of-two-sized tables." />
+      <item value="InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
+      <item value="however, the child's value can be made an * arbitrary function of the parent's by overriding the &lt;tt&gt;childValue&lt;/tt&gt; * method in this class." />
+      <item value="Normally the child's values will be * identical to the parent's;" />
+      <item value="when a child thread is created, the * child receives initial values for all inheritable thread-local variables * for which the parent has values." />
+      <item value="This class extends &lt;tt&gt;ThreadLocal&lt;/tt&gt; to provide inheritance of values * from parent thread to child thread:" />
+      <item value="internal" />
+      <item value="Application singletons that do not use static memory require some sort * of application configuration framework to maintain the application-wide SecurityManager instance for you" />
+      <item value="The Shiro development team prefers that SecurityManager instances are non-static application singletons * and &lt;em&gt;not&lt;/em&gt; VM static singletons." />
       <item value="instrumented" />
       <item value="statement" />
       <item value="enhanced" />
@@ -35,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="27" />
+        <entry key="ENGLISH" value="29" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
