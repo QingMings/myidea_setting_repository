@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="its value will be * reinitialized by invoking its {@link #initialValue} method," />
+      <item value="If this thread-local variable is subsequently * {@linkplain #get read} by the current thread" />
+      <item value="Sets the current thread's copy of this thread-local variable * to the specified value" />
       <item value="Typically, an * anonymous inner class will be used." />
       <item value="must be * subclassed, and this method overridden." />
       <item value="This implementation simply returns {@code null}; if the * programmer desires thread-local variables to have an initial * value other than {@code null}," />
@@ -48,14 +51,11 @@
       <item value="タスクバーのアイコンバッジへの数値登録はサポートされていません" />
       <item value="設定メニューはサポートされていません." />
       <item value="Aboutメニューはサポートされていません." />
-      <item value="Screen Sleep Eventはサポートされていません." />
-      <item value="App Hidden Eventはサポートされていません." />
-      <item value="App Foreground Eventはサポートされていません." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="50" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
