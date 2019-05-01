@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="supplier" />
       <item value="This class provides thread-local variables. These variables differ from * their normal counterparts in that each thread that accesses one (via its * {@code get} or {@code set} method) has its own, independently initialized * copy of the variable. {@code ThreadLocal} instances are typically private * static fields in classes that wish to associate state with a thread (e.g., * a user ID or Transaction ID)." />
       <item value="associate" />
       <item value="typically" />
@@ -50,12 +51,11 @@
       <item value="support for multi-line * input is not available as part of the TextField control" />
       <item value="Text input component that allows a user to enter a single line of * unformatted text. Unlike in previous releases of JavaFX" />
       <item value="Accessibility" />
-      <item value="Text field that masks entered characters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="40" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
