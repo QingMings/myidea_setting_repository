@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Typically, an * anonymous inner class will be used." />
+      <item value="must be * subclassed, and this method overridden." />
+      <item value="This implementation simply returns {@code null}; if the * programmer desires thread-local variables to have an initial * value other than {@code null}," />
+      <item value="but it may be invoked again in case of * subsequent invocations of {@link #remove} followed by {@link #get}." />
+      <item value="Normally, this method is invoked at * most once per thread," />
+      <item value="in which case the {@code initialValue} method will not * be invoked for the thread." />
+      <item value="unless the thread previously invoked the {@link #set} * method," />
       <item value="supplier" />
       <item value="This class provides thread-local variables. These variables differ from * their normal counterparts in that each thread that accesses one (via its * {@code get} or {@code set} method) has its own, independently initialized * copy of the variable. {@code ThreadLocal} instances are typically private * static fields in classes that wish to associate state with a thread (e.g., * a user ID or Transaction ID)." />
       <item value="associate" />
@@ -44,18 +51,11 @@
       <item value="Screen Sleep Eventはサポートされていません." />
       <item value="App Hidden Eventはサポートされていません." />
       <item value="App Foreground Eventはサポートされていません." />
-      <item value="TextField supports the notion of showing" />
-      <item value="if you want * a form of rich-text editing, there is also the" />
-      <item value="Additionally" />
-      <item value="however this is * the sole-purpose of the {@link TextArea} control" />
-      <item value="support for multi-line * input is not available as part of the TextField control" />
-      <item value="Text input component that allows a user to enter a single line of * unformatted text. Unlike in previous releases of JavaFX" />
-      <item value="Accessibility" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="47" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
