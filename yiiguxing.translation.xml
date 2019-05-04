@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quest" />
+      <item value="embark" />
+      <item value="wanted Number Of Invocations" />
+      <item value="embark On Quest" />
+      <item value="Knight" />
+      <item value="Brave Knight" />
       <item value="inherited" />
       <item value="associated" />
       <item value="its value will be * reinitialized by invoking its {@link #initialValue} method," />
@@ -45,17 +51,11 @@
       <item value="Merge Project" />
       <item value="テンプレートを選択" />
       <item value="プロジェクトの新規作成" />
-      <item value="ファイル" />
-      <item value="\u 30 d 5\u 30 a 1\u 30 a 4\u 30 eb" />
-      <item value="A visual rendering * of a JavaFX Stage on Mac OSX" />
-      <item value="タスクバーのプログレス表示はサポートされていません" />
-      <item value="タスクバーのアイコンバッジへの数値登録はサポートされていません" />
-      <item value="設定メニューはサポートされていません." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="65" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
