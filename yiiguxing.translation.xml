@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Minstrel" />
       <item value="Quest" />
       <item value="embark" />
       <item value="wanted Number Of Invocations" />
@@ -50,12 +51,11 @@
       <item value="プラグインサイト" />
       <item value="Merge Project" />
       <item value="テンプレートを選択" />
-      <item value="プロジェクトの新規作成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="66" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
