@@ -18,8 +18,12 @@
           <option name="url" value="git@github.com:QingMings/spring-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/YunaiV/spring-framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\project\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\project\SourceCodeReading" />
   </component>
 </application>
