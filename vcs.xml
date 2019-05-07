@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/YunaiV/spring-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.smartwell.cn:ylh/206udp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\project\SourceCodeReading" />
+    <option name="cloneParentDir" value="D:\project\YhlWork" />
   </component>
 </application>
