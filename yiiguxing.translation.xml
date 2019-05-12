@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ascending" />
+      <item value="ensures" />
+      <item value="The TreeMap ensures that the cells are ordered by columnIndex in the ascending order." />
+      <item value="Cells of this row keyed by their column indexes" />
+      <item value="High level representation of a row of a spreadsheet" />
       <item value="get Certain" />
       <item value="logger.is Debug Enabled()" />
       <item value="Peppers" />
@@ -46,16 +51,11 @@
       <item value="Application singletons that do not use static memory require some sort * of application configuration framework to maintain the application-wide SecurityManager instance for you" />
       <item value="The Shiro development team prefers that SecurityManager instances are non-static application singletons * and &lt;em&gt;not&lt;/em&gt; VM static singletons." />
       <item value="instrumented" />
-      <item value="statement" />
-      <item value="enhanced" />
-      <item value="Iterable" />
-      <item value="Provides registry capabilities only, with no factory capabilities built in. * Can for example be used for testing bean definition readers." />
-      <item value="Multi Diagrams" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="78" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
