@@ -1,42 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Certain" />
+      <item value="logger.is Debug Enabled()" />
+      <item value="Peppers" />
+      <item value="Sgt Peppers" />
+      <item value="Compact Disc" />
+      <item value="knight" />
+      <item value="Minstrel" />
+      <item value="Quest" />
+      <item value="embark" />
+      <item value="wanted Number Of Invocations" />
+      <item value="embark On Quest" />
+      <item value="Knight" />
+      <item value="Brave Knight" />
+      <item value="inherited" />
+      <item value="associated" />
+      <item value="its value will be * reinitialized by invoking its {@link #initialValue} method," />
+      <item value="If this thread-local variable is subsequently * {@linkplain #get read} by the current thread" />
+      <item value="Sets the current thread's copy of this thread-local variable * to the specified value" />
+      <item value="Typically, an * anonymous inner class will be used." />
+      <item value="must be * subclassed, and this method overridden." />
+      <item value="This implementation simply returns {@code null}; if the * programmer desires thread-local variables to have an initial * value other than {@code null}," />
+      <item value="but it may be invoked again in case of * subsequent invocations of {@link #remove} followed by {@link #get}." />
+      <item value="Normally, this method is invoked at * most once per thread," />
+      <item value="in which case the {@code initialValue} method will not * be invoked for the thread." />
+      <item value="unless the thread previously invoked the {@link #set} * method," />
+      <item value="supplier" />
+      <item value="This class provides thread-local variables. These variables differ from * their normal counterparts in that each thread that accesses one (via its * {@code get} or {@code set} method) has its own, independently initialized * copy of the variable. {@code ThreadLocal} instances are typically private * static fields in classes that wish to associate state with a thread (e.g., * a user ID or Transaction ID)." />
+      <item value="associate" />
+      <item value="typically" />
+      <item value="independently" />
+      <item value="independently initialized * copy of the variable." />
+      <item value="This class provides thread-local variables. These variables differ from * their normal counterparts in that each thread that accesses one (via its * {@code get} or {@code set} method) has its own," />
+      <item value="An extension of ThreadLocal that obtains its initial value from * the specified {@code Supplier}." />
+      <item value="Method childValue is visibly defined in subclass * InheritableThreadLocal, but is internally defined here for the * sake of providing createInheritedMap factory method without * needing to subclass the map class in InheritableThreadLocal. * This technique is preferable to the alternative of embedding * instanceof tests in methods." />
+      <item value="We don't use a fast path as with get() because it is at // least as common to use set() to create new entries as // it is to replace existing ones, in which case, a fast // path would fail more often than not." />
+      <item value="The difference between successively generated hash codes - turns * implicit sequential thread-local IDs into near-optimally spread * multiplicative hash values for power-of-two-sized tables." />
+      <item value="InheritableThreadLocal values pertaining to this thread. This map is * maintained by the InheritableThreadLocal class." />
+      <item value="however, the child's value can be made an * arbitrary function of the parent's by overriding the &lt;tt&gt;childValue&lt;/tt&gt; * method in this class." />
+      <item value="Normally the child's values will be * identical to the parent's;" />
+      <item value="when a child thread is created, the * child receives initial values for all inheritable thread-local variables * for which the parent has values." />
+      <item value="This class extends &lt;tt&gt;ThreadLocal&lt;/tt&gt; to provide inheritance of values * from parent thread to child thread:" />
+      <item value="internal" />
+      <item value="Application singletons that do not use static memory require some sort * of application configuration framework to maintain the application-wide SecurityManager instance for you" />
+      <item value="The Shiro development team prefers that SecurityManager instances are non-static application singletons * and &lt;em&gt;not&lt;/em&gt; VM static singletons." />
       <item value="instrumented" />
       <item value="statement" />
       <item value="enhanced" />
       <item value="Iterable" />
       <item value="Provides registry capabilities only, with no factory capabilities built in. * Can for example be used for testing bean definition readers." />
       <item value="Multi Diagrams" />
-      <item value="Current Diagram" />
-      <item value="現在の図" />
-      <item value="インストール済みプラグイン" />
-      <item value="プラグインサイト" />
-      <item value="Merge Project" />
-      <item value="テンプレートを選択" />
-      <item value="プロジェクトの新規作成" />
-      <item value="ファイル" />
-      <item value="\u 30 d 5\u 30 a 1\u 30 a 4\u 30 eb" />
-      <item value="A visual rendering * of a JavaFX Stage on Mac OSX" />
-      <item value="タスクバーのプログレス表示はサポートされていません" />
-      <item value="タスクバーのアイコンバッジへの数値登録はサポートされていません" />
-      <item value="設定メニューはサポートされていません." />
-      <item value="Aboutメニューはサポートされていません." />
-      <item value="Screen Sleep Eventはサポートされていません." />
-      <item value="App Hidden Eventはサポートされていません." />
-      <item value="App Foreground Eventはサポートされていません." />
-      <item value="TextField supports the notion of showing" />
-      <item value="if you want * a form of rich-text editing, there is also the" />
-      <item value="Additionally" />
-      <item value="however this is * the sole-purpose of the {@link TextArea} control" />
-      <item value="support for multi-line * input is not available as part of the TextField control" />
-      <item value="Text input component that allows a user to enter a single line of * unformatted text. Unlike in previous releases of JavaFX" />
-      <item value="Accessibility" />
-      <item value="Text field that masks entered characters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="73" />
         <entry key="JAPANESE" value="11" />
       </map>
     </option>
