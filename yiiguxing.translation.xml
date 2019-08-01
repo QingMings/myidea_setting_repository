@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sync Util.get Server Address()" />
       <item value="ascending" />
       <item value="ensures" />
       <item value="The TreeMap ensures that the cells are ordered by columnIndex in the ascending order." />
@@ -50,7 +51,6 @@
       <item value="internal" />
       <item value="Application singletons that do not use static memory require some sort * of application configuration framework to maintain the application-wide SecurityManager instance for you" />
       <item value="The Shiro development team prefers that SecurityManager instances are non-static application singletons * and &lt;em&gt;not&lt;/em&gt; VM static singletons." />
-      <item value="instrumented" />
     </histories>
     <option name="languageScores">
       <map>
