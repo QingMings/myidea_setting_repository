@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="XML" injector-id="java">
+      <display-name>XmlJWinToastTemplate.LoadXml (icu.ootime.jwintoast.xml)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("LoadXml").withParameters("java.lang.String").definedInClass("icu.ootime.jwintoast.xml.XmlJWinToastTemplate"))]]></place>
+    </injection>
+  </component>
+</application>
